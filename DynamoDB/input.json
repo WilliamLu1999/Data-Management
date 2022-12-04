@@ -1,0 +1,46 @@
+{
+  "bookid": {
+    "S": "100"
+  },
+  "date": {
+    "S": "20221117"
+  },
+  "author": {
+    "SS": [
+      "john",
+      "mary"
+    ]
+  },
+  "dimensions": {
+    "NS": [
+      "20",
+      "10"
+    ]
+  },
+  "ISBN": {
+    "L": [
+      {
+        "S": "10-10"
+      },
+      {
+        "N": "1"
+      }
+    ]
+  },
+  "name": {
+    "S": "To kill a mocking bird"
+  },
+  "pages": {
+    "N": "500"
+  },
+  "subject": {
+    "M": {
+      "emotion": {
+        "S": "happy"
+      },
+      "weather": {
+        "S": "sunny"
+      }
+    }
+  }
+}
